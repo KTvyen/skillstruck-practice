@@ -29,7 +29,7 @@
    #print(number3)
 
 #number1 = int(input("first number"))
-#ber2 = int(input("second number"))
+#number2 = int(input("second number"))
 #number3 = int(input("third number"))
 #if number1 == number2 == number3:
     #print(3)
